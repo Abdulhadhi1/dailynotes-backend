@@ -6,6 +6,4 @@
    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Daily notes app backend created using Node Js.
 Mongoose and express framework are used.</p>
 
-**Frontend github Link** - https://github.com/Monishadhanasekar/daily_notes-frontend
-
 
